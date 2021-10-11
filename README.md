@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VEDNAIK
-- 👀 I’m interested in AI and Machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in AI and Machine learning and I’m currently learning python
 
 <!---
 VEDNAIK/VEDNAIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
