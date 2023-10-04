@@ -1,4 +1,4 @@
-#HEY THERE!    
+# HEY THERE!    
 🎓 I'm a Computer Engineering Third Yearite at Mukesh Patel School of Technology Management and Engineering
 
 🌱 I’m currently learning NextJS,NodesJS,ReactJS,Svelte
