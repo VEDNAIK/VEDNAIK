@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @VEDNAIK
-- 👀 I’m interested in AI and Machine learning and I’m currently learning python
+HEY THERE!
+🎓 I'm a Computer Engineering Third Yearite at Mukesh Patel School of Technology Management and Engineering
 
-<!---
-VEDNAIK/VEDNAIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning NextJS,NodesJS,ReactJS,Svelte
+
+👯 I’m looking to collaborate on an App Development Project(Web/Android)
+
+💻 I'm proficient in Java, Python, R,SQL,HTMl,JavaScript and C
+
+⚡ Interests:Data Analysis,Machine Learning & NLP ,App Development,Block Chain and Responsive Webpage Development
+
+💬 Reach me at dhyannshah@gmail.com
