@@ -1,4 +1,4 @@
-HEY THERE!
+#HEY THERE!    
 🎓 I'm a Computer Engineering Third Yearite at Mukesh Patel School of Technology Management and Engineering
 
 🌱 I’m currently learning NextJS,NodesJS,ReactJS,Svelte
@@ -9,4 +9,4 @@ HEY THERE!
 
 ⚡ Interests:Data Analysis,Machine Learning & NLP ,App Development,Block Chain and Responsive Webpage Development
 
-💬 Reach me at dhyannshah@gmail.com
+💬 Reach me at vednaik172@gmail.com
